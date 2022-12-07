@@ -15,10 +15,11 @@
  - [GitHub Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) [Optional}
  - [Azure IoT Hub](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-1.html) [Optional Mechanical Engg]
  - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi) [Optional Mechanical Engg]
+ - [Azure Data Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) [Preferred]
  
  
 ## Certifications:
 
 - [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-203) [Preferred]
-- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) [Preferred]
+- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) [Preferred] [[Preparation](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/)]
 - [Exam DP-900: Microsoft Azure Data Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/dp-900) [Optional]
