@@ -1,0 +1,10 @@
+author: Amrit Pratihar
+github_username:  Amrit-Hub
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
