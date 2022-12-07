@@ -155,11 +155,6 @@ print(f'Row Count: {rowCount}')
 
 # COMMAND ----------
 
-rawSalesDataDF.select(['count(CASE WHEN (StockCode IS NULL) THEN StockCode END) AS StockCode'])
-# rawSalesDataDF.select(col('InvoiceNo')).show()
-
-# COMMAND ----------
-
 # Identify columns with null values
 
 print("Columns with null values")
