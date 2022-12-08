@@ -26,4 +26,4 @@
 
 ## Advanced:
 - [Delta Lake Essentials](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/Delta%20Lake%20Essentials) [Preferred]
-- [Delta Lake, Unity Catalog, RLS, Encryption, DLT videos](https://www.youtube.com/playlist?list=PLWq-m1Tje0cu-Z8S4oGUpc5N1VBC3lmOi) [Optional]
+- [Delta Lake, Unity Catalog, Security, Encryption, DLT videos](https://www.youtube.com/playlist?list=PLWq-m1Tje0cu-Z8S4oGUpc5N1VBC3lmOi) [Optional]
