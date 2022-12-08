@@ -5,14 +5,14 @@
 
  - [Spark Fundamentals](https://courses.hadoopinrealworld.com/p/spark-starter-kit) [Mandatory]
  - [Hadoop Fundamentals](https://www.hadoopinrealworld.com/starterkit/) [Mandatory]
- - [Azure Data Factory](https://www.youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO) [Mandatory]
- - [Azure Synapse Analytics](https://www.youtube.com/playlist?list=PLMWaZteqtEaIZxPCw_0AO1GsqESq3hZc6) [Optional]
- - [Azure Databricks](https://www.youtube.com/playlist?list=PLMWaZteqtEaKi4WAePWtCSQCfQpvBT2U1) [Mandatory]
+ - [Azure Data Factory by WafaStudies](https://www.youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO) [Mandatory]
+ - [Azure Synapse Analytics by WafaStudies](https://www.youtube.com/playlist?list=PLMWaZteqtEaIZxPCw_0AO1GsqESq3hZc6) [Optional]
+ - [Azure Databricks by WafaStudies](https://www.youtube.com/playlist?list=PLMWaZteqtEaKi4WAePWtCSQCfQpvBT2U1) [Mandatory]
  - [SQL by kudvenkat](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB) [Mandatory]
  - [Python by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) [Mandatory]
  - [SQL Practice](https://www.hackerrank.com/domains/sql) [Mandatory]
  - [Git Essentials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) [Preferred]
- - [Git Hindi by codewithharry](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) [Optional}
+ - [Git Hindi by CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) [Optional}
  - [Azure IoT Hub](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-1.html) [Optional Mechanical Engg]
  - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi) [Optional Mechanical Engg]
  - [Azure Data Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) [Preferred]
