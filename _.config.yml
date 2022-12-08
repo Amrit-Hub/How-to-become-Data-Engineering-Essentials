@@ -1,9 +1,6 @@
 author: Amrit Pratihar
 github_username:  Amrit-Hub
-plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jemoji
+remote_theme: pages-themes/architect@v0.2.0
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
