@@ -3,8 +3,8 @@
 
 ## Requirements (free resources):
 
- - [Spark Fundamentals](https://courses.hadoopinrealworld.com/p/spark-starter-kit) [Mandatory]
  - [Spark Internal](https://www.youtube.com/watch?v=dmL0N3qfSc8) [Mandatory]
+ - [Spark Fundamentals](https://courses.hadoopinrealworld.com/p/spark-starter-kit) [Mandatory]
  - [Hadoop Fundamentals](https://www.hadoopinrealworld.com/starterkit/) [Mandatory]
  - [Azure Data Factory by WafaStudies](https://www.youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO) [Mandatory]
  - [Azure Data Factory by Adam Marczak](https://www.youtube.com/playlist?list=PLGjZwEtPN7j8b9dPA0HrtJDptOB69B506) [Mandatory]
