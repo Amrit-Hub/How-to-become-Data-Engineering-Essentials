@@ -12,6 +12,7 @@
  - [Azure Databricks by WafaStudies](https://www.youtube.com/playlist?list=PLMWaZteqtEaKi4WAePWtCSQCfQpvBT2U1) [Mandatory]
  - [Azure Databricks by Adam Marczak](https://www.youtube.com/playlist?list=PLGjZwEtPN7j96btR0XlAIla9T6XPpj9ta) [Mandatory]
  - [Pyspark wiki](https://sparkbyexamples.com/pyspark-tutorial/) [Mandatory]
+ - [Pyspark Notes](/pyspark/PySpark notes.pdf) [Interview Questions]
  - [SQL by kudvenkat](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB) [Mandatory]
  - [Python by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) [Mandatory]
  - [SQL Practice](https://www.hackerrank.com/domains/sql) [Mandatory]
