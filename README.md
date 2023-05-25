@@ -28,6 +28,8 @@
  - [Modern Industrial IoT Analytics on Azure - Part 2](https://www.databricks.com/blog/2020/08/11/modern-industrial-iot-analytics-on-azure-part-2.html)
  - [Modern Industrial IoT Analytics on Azure - Part 3](https://www.databricks.com/blog/2020/08/20/modern-industrial-iot-analytics-on-azure-part-3.html)
  - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+ - [Azure Stream Analytics by Adam](https://www.youtube.com/watch?v=NbGmyjgY0pU)
+ - [Azure Stream Analytics by Pragmatics](https://www.youtube.com/watch?v=sJ02fNsor3M)
 
   
 ## Certifications:
