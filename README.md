@@ -18,11 +18,18 @@
  - [SQL Practice](https://www.hackerrank.com/domains/sql) [Mandatory]
  - [Git Essentials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) [Preferred]
  - [Git Hindi by CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) [Optional]
- - [Azure IoT Hub](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-1.html) [Optional Mechanical Engg]
- - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi) [Optional Mechanical Engg]
  - [Azure Data Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) [Preferred]
  
  
+ ## Optional Mechanical Enggineering resources:
+ - [Azure IoT Hub Part 1](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-1.html)
+ - [Azure IoT Hub Part 2](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-2.html)
+ - [Modern Industrial IoT Analytics on Azure - Part 1](https://www.databricks.com/blog/2020/08/03/modern-industrial-iot-analytics-on-azure-part-1.html)
+ - [Modern Industrial IoT Analytics on Azure - Part 2](https://www.databricks.com/blog/2020/08/11/modern-industrial-iot-analytics-on-azure-part-2.html)
+ - [Modern Industrial IoT Analytics on Azure - Part 3](https://www.databricks.com/blog/2020/08/20/modern-industrial-iot-analytics-on-azure-part-3.html)
+ - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+
+  
 ## Certifications:
 
 - [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-203) [Preferred]
@@ -34,6 +41,6 @@
 - [Delta Lake, Unity Catalog, Security, Encryption, DLT videos](https://www.youtube.com/playlist?list=PLWq-m1Tje0cu-Z8S4oGUpc5N1VBC3lmOi) [Optional]
 - [Delta Lake blogs](https://delta.io/blog) [Preferred]
 
-## Cloud Resources:
+## Free Cloud Resources:
 - [Azure Free Account](https://azure.microsoft.com/en-in/free/search/) [Use new Credit Card]
 - [Databricks Community](https://www.databricks.com/try-databricks#account) [choose - "Get started with Community Edition"]
