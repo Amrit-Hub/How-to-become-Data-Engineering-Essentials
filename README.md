@@ -1,6 +1,4 @@
-
-# How to get started with Data Engineering?
-### [What is Data Engineering?](https://www.youtube.com/watch?v=qWru-b6m030&t=3s&ab_channel=AltexSoft)
+### [Youtube - What is Data Engineering?](https://www.youtube.com/watch?v=qWru-b6m030&t=3s&ab_channel=AltexSoft)
 
 ## Must Have (free resources):
 
