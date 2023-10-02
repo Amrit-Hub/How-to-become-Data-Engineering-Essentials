@@ -1,9 +1,0 @@
-author: Amrit Pratihar
-github_username:  Amrit-Hub
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
-markdown: kramdown
-kramdown:
-   syntax_highlighter_opts:
-      disable : true
