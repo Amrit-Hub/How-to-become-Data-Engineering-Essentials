@@ -50,3 +50,23 @@
 ## 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 Burger
 ![image](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/be8fd25f-87d4-4e16-bbd8-2c350087b1ea)
 
+## Road Map to Data Engineer
+![1696162341930](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/1847e755-d037-4903-b72b-6577bd82316a)
+
+## Data Warehouse vs Lake vs Mesh
+![1696248040560](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/80191075-2f04-4309-a3ac-a31b025afd68)
+
+## Data Warehouse vs Lake vs Lakehouse vs Mesh
+![1694950258656](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/334a4d86-07f3-42e5-b9b8-30b75bf3ff1a)
+
+## Cloud Platform Models
+![1695779445753](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/162db0d9-81aa-4e54-a3fa-6cfb6ad93a2f)
+
+## ETL vs ELT vs reverse ETL
+![1695032965655](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/81a3d438-881e-4cb6-a658-1c58cc3aa5b8)
+
+## Star vs Snowflake Schema
+![1693622854283](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/67cf1282-741c-43b3-80ae-a401ddedcdb7)
+
+## Lambda vs Kappa
+![1693539947726](https://github.com/Amrit-Hub/How-to-become-Data-Engineering-Essentials/assets/94331599/38fc2711-72fc-4b5d-8c5a-5ec92c57a1c0)
