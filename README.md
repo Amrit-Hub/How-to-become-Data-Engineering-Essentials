@@ -1,5 +1,5 @@
-## YouTube - What is Data Engineering
-[![What is Data Engineering](http://img.youtube.com/vi/qWru-b6m030/0.jpg)](https://www.youtube.com/watch?v=qWru-b6m030)
+## Data Engineering
+[![YouTube - What is Data Engineering](http://img.youtube.com/vi/qWru-b6m030/0.jpg)](https://www.youtube.com/watch?v=qWru-b6m030)
 
 ## Must Have (free resources):
 
