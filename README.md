@@ -1,4 +1,5 @@
-### [Youtube - What is Data Engineering?](https://www.youtube.com/watch?v=qWru-b6m030&t=3s&ab_channel=AltexSoft)
+## YouTube - What is Data Engineering
+[![What is Data Engineering](http://img.youtube.com/vi/qWru-b6m030/0.jpg)](https://www.youtube.com/watch?v=qWru-b6m030)
 
 ## Must Have (free resources):
 
@@ -33,8 +34,8 @@
   
 ## Certifications:
 
-- [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-203) [Preferred]
-- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) [Preferred] [[Preparation](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/)]
+- [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-203) [Preferred] [[Questions](https://amrit-hub.github.io/Azure-Data-Engineer-Associate-Questions/)]
+- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) [Preferred] [[Questions](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/)]
 - [Exam DP-900: Microsoft Azure Data Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/dp-900) [Optional]
 
 ## Advanced:
