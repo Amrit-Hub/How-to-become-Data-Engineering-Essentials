@@ -29,7 +29,7 @@
 > Pyspark
 
 - [Pyspark wiki](https://sparkbyexamples.com/pyspark-tutorial/) [Mandatory]
-- [Pyspark Notes](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/pyspark/PySpark-notes.pdf) [Interview Questions]
+- [Pyspark Notes](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/pyspark/PySpark-notes.pdf) [Interview Questions]
 
 ---
 
@@ -62,26 +62,26 @@
 ## Spark Advanced videos with slides (must for Interview)
 
 - [Understanding Query Plans and Spark UIs - Xiao Li Databricks](https://www.youtube.com/watch?v=YgQgJceojJY)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Understanding_Query_Plans_and_Spark_UIs_-_20240623_103226.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Understanding_Query_Plans_and_Spark_UIs_-_20240623_103226.pdf)]
 - [Easy, Scalable, Fault Tolerant Stream Processing with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=_jPKqJ-gaIY)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Easy,_scalable,_fault_tolerant_stream_processing_with_structured_streaming_-_with_Tathagata_Das_-_20240623_103806.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Easy,_scalable,_fault_tolerant_stream_processing_with_structured_streaming_-_with_Tathagata_Das_-_20240623_103806.pdf)]
 - [Everyday I&#39;m Shuffling - Tips for Writing Better Apache Spark Programs](https://www.youtube.com/watch?v=Wg2boMqLjCg)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Everyday_I'm_Shuffling_-_Tips_for_Writing_Better_Spark_Programs,_Strata_San_Jose_2015_-_20240623_104054.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Everyday_I'm_Shuffling_-_Tips_for_Writing_Better_Spark_Programs,_Strata_San_Jose_2015_-_20240623_104054.pdf)]
 - [Optimizing Apache Spark SQL Joins: Spark Summit East talk by Vida Ha](https://www.youtube.com/watch?v=fp53QhSfQcI)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Optimizing_Apache_Spark_SQL_Joins_-_20240623_104238.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Optimizing_Apache_Spark_SQL_Joins_-_20240623_104238.pdf)]
 - [Apache Spark Core—Deep Dive—Proper Optimization Daniel Tomes Databricks](https://www.youtube.com/watch?v=daXEp4HmS-E)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Apache_Spark_Core—Deep_Dive—Proper_Optimization_-_20240623_104404.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Apache_Spark_Core—Deep_Dive—Proper_Optimization_-_20240623_104404.pdf)]
 - [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Apache_Spark_2.0__A_Deep_Dive_Into_Structured_Streaming_-_by_Tathagata_Das__-_20240623_104644.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Apache_Spark_2.0__A_Deep_Dive_Into_Structured_Streaming_-_by_Tathagata_Das__-_20240623_104644.pdf)]
 - [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 - [The Parquet Format and Performance Optimization Opportunities Boudewijn Braams](https://www.youtube.com/watch?v=1j8SdS7s_NY)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
 - [Designing ETL Pipelines with Structured Streaming and Delta Lake— How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Designing_ETL_Pipelines_with_Structured_Streaming_and_Delta_Lake—How_to_Architect_Things_Right_-_20240623_111312.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Designing_ETL_Pipelines_with_Structured_Streaming_and_Delta_Lake—How_to_Architect_Things_Right_-_20240623_111312.pdf)]
 - [Advanced Apache Spark Training - Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/Spark_Summit_East_2015_Advanced_Devops_Student_Slides_-_20240623_112818.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/Spark_Summit_East_2015_Advanced_Devops_Student_Slides_-_20240623_112818.pdf)]
 - [ Deeper Understanding of Spark Internals - Aaron Davidson](https://www.youtube.com/watch?v=dmL0N3qfSc8)
-[[Presentation slides here](https://github.com/Amrit-Hub/Data-Engineering-Essentials/tree/main/resources/A_deeper-understanding-of-spark-internals-aaron-davidson_-_20240623_120842.pdf)]
+[[Presentation slides here](https://amrit-hub.github.io/Databricks-Certified-Data-Engineer-Associate-Questions/resources/A_deeper-understanding-of-spark-internals-aaron-davidson_-_20240623_120842.pdf)]
 
 ## Optional resources for Mechanical Engineers:
 
