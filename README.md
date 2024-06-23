@@ -84,6 +84,10 @@
 - [ Deeper Understanding of Spark Internals - Aaron Davidson](https://www.youtube.com/watch?v=dmL0N3qfSc8)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/A_deeper-understanding-of-spark-internals-aaron-davidson_-_20240623_120842.pdf)]
 
+## Fastrack Interview
+
+WIP
+
 ## Optional resources for Mechanical Engineers:
 
 - [Azure IoT Hub Part 1](https://www.databricks.com/notebooks/iiot/iiot-end-to-end-part-1.html)
