@@ -74,6 +74,7 @@
 - [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Apache_Spark_2.0__A_Deep_Dive_Into_Structured_Streaming_-_by_Tathagata_Das__-_20240623_104644.pdf)]
 - [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
+[[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
 - [The Parquet Format and Performance Optimization Opportunities Boudewijn Braams](https://www.youtube.com/watch?v=1j8SdS7s_NY)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
 - [Designing ETL Pipelines with Structured Streaming and Delta Lake— How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
