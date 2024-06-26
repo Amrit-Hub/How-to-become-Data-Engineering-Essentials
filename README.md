@@ -77,12 +77,14 @@
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
 - [The Parquet Format and Performance Optimization Opportunities Boudewijn Braams](https://www.youtube.com/watch?v=1j8SdS7s_NY)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
-- [Designing ETL Pipelines with Structured Streaming and Delta Lake— How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
+- [Designing ETL Pipelines with Structured Streaming and Delta Lake How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Designing_ETL_Pipelines_with_Structured_Streaming_and_Delta_Lake—How_to_Architect_Things_Right_-_20240623_111312.pdf)]
 - [Advanced Apache Spark Training - Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Spark_Summit_East_2015_Advanced_Devops_Student_Slides_-_20240623_112818.pdf)]
 - [ Deeper Understanding of Spark Internals - Aaron Davidson](https://www.youtube.com/watch?v=dmL0N3qfSc8)
 [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/A_deeper-understanding-of-spark-internals-aaron-davidson_-_20240623_120842.pdf)]
+- [ Top 5 Mistakes When Writing Spark Applications](https://www.youtube.com/watch?v=WyfHUNnMutg)
+[[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Top_5_Mistakes_to_Avoid_When_Writing_Apache_Spark_Applications_-_20240623_223520.pdf)]
 
 ## Fastrack Interview
 
