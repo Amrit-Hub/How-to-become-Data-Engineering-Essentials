@@ -87,6 +87,14 @@
   [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Top_5_Mistakes_to_Avoid_When_Writing_Apache_Spark_Applications_-_20240623_223520.pdf)]
 - [ Spark Architecture, Alexey Grishchenko](https://www.youtube.com/watch?v=qf2IxHzueXA)
   [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Apache_Spark_Architecture_-_20240626_105939.pdf)]
+- [ Spark SQL: A compiler from Queries to RDDS with Sameer Agarwal](https://www.youtube.com/watch?v=EIyI9cKfLCc)
+  [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Spark_SQL_A_compiler_from_Queries_to_RDDS_with_Sameer_Agarwal.pdf)]
+- [ Deep Dive into Spark SQL with Advanced Performance Tuning with Xiao Li & Wenchen Fan](https://vimeo.com/274390145)
+  [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive_into_Spark_SQL_with_Advanced_Performance_Tuning_with_Xiao_Li_&_Wenchen_Fan.pdf)]
+- [ A Deep Dive into Spark SQL's Catalyst Optimizer with Yin Huai](https://www.youtube.com/watch?v=RmUn5vHlevc)
+  [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/A_Deep_Dive_into_Spark_SQL's_Catalyst_Optimizer_with_Yin_Huai.pdf)]
+- [ Spark + Parquet In Depth: Spark Summit East talk by: Emily Curtin and Robbie Strickland](https://www.youtube.com/watch?v=RmUn5vHlevc)
+  [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Spark_+_Parquet_In_Depth_Spark_Summit_East_talk_by_Emily_Curtin_and_Robbie_Strickland.pdf)]
 
 ## Fastrack Interview
 
