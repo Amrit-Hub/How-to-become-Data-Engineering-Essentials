@@ -101,19 +101,21 @@
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Diving_into_Delta_Lake_Unpacking_the_Transaction_Log.pdf)]
 20. [Delta Lake 2.0 Overview](https://www.youtube.com/watch?v=VWJT3JyPKvk)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Delta_Lake_Overwiew_2-0.pdf)]
-21. [Tuning and Debugging in Apache Spark Patrick Wendell](https://www.youtube.com/watch?v=kkOG_aJ9KjQ)
+21. [Accelerating Data Ingestion with Databricks Autoloader Simon](https://www.youtube.com/watch?v=8a38Fv9cpd8)
+    [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Accelerating_Data_Ingestion_with_Databricks_Autoloader_Simon.pdf)]
+22. [Tuning and Debugging in Apache Spark Patrick Wendell](https://www.youtube.com/watch?v=kkOG_aJ9KjQ)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Tuning_and_Debugging_in_Apache_Spark.pdf)]
-22. [Tuning Apache Spark for Large-Scale Workloads Gaoxiang Liu and Sital Kedia](https://www.youtube.com/watch?v=5dga0UT4RI8)
+23. [Tuning Apache Spark for Large-Scale Workloads Gaoxiang Liu and Sital Kedia](https://www.youtube.com/watch?v=5dga0UT4RI8)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Tuning_Apache_Spark_for_Large-Scale_Workloads_Gaoxiang_Liu_and_Sital_Kedia.pdf)]
-23. [Understanding the Performance of Spark Applications - Patrick Wendell](https://www.youtube.com/watch?v=NXp3oJHNM7E)
+24. [Understanding the Performance of Spark Applications - Patrick Wendell](https://www.youtube.com/watch?v=NXp3oJHNM7E)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/spark-performance-patrick-wendell-databricks.pdf)]
-24. [SQL, DataFrames, Datasets And Streaming - by Michael Armbrust
+25. [SQL, DataFrames, Datasets And Streaming - by Michael Armbrust
     ](https://www.youtube.com/watch?v=1a4pgYzeFwE)[[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/SQL,_DataFrames,_Datasets_And_Streaming_-_by_Michael_Armbrust.pdf)]
-25. [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
+26. [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Apache_Spark_2.0__A_Deep_Dive_Into_Structured_Streaming_-_by_Tathagata_Das__-_20240623_104644.pdf)]
-26. [Designing ETL Pipelines with Structured Streaming and Delta Lake How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
+27. [Designing ETL Pipelines with Structured Streaming and Delta Lake How to Architect Things Right](https://www.youtube.com/watch?v=eOhAzjf__iQ)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Designing_ETL_Pipelines_with_Structured_Streaming_and_Delta_Lake—How_to_Architect_Things_Right_-_20240623_111312.pdf)]
-27. [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
+28. [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
     [[Presentation slides here](https://amrit-hub.github.io/How-to-become-Data-Engineering-Essentials/resources/Deep_Dive__Memory_Management_in_Apache_Spark_-_20240623_110859.pdf)]
 
 ## Fastrack Interview
@@ -179,3 +181,17 @@ WIP
 ## Medallion Architecture
 
 ![1719381184666](image/README/1719345910378.gif)
+
+## Database Types![1722698423663](image/README/1722698423663.png)
+
+## Database Indexing
+
+![1722698462696](image/README/1722698462696.png)
+
+## SQL Execution Order
+
+![1722698490703](image/README/1722698490703.png)
+
+## HTTP status code
+
+![1722698521421](image/README/1722698521421.png)
