@@ -190,8 +190,12 @@ WIP
 
 ## SQL Execution Order
 
-![1722698490703](image/README/1722698490703.png)
+![1722698490703](image/README/1719813850595.gif)
 
 ## HTTP status code
 
 ![1722698521421](image/README/1722698521421.png)
+
+## Containerization
+
+![1723181279973](image/README/1723181279973.gif)
